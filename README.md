@@ -1,4 +1,12 @@
 ## Hi there 👋
+My name is Devin Mateo a 2nd year at Lehman College.
+I have experience in both frontend and backend development, I am into blockChain technology which started my intrest in coding and learning how to develop cool applications with practical use. I have a few personal projects that showcases my skills my goal is to become a web3 developer/engineer. On my pass time I like to play games and networking with people on discord.
+
+![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,solidity,vercel)
+
+
+<a href="https://www.linkedin.com/feed/"/>
+<img src = "https://img.shields.io/badge/%2540-Linkedin-blue?label=%20&labelColor=%20" />
 
 <!--
 **bolojutsu/bolojutsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
