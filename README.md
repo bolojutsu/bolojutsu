@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Devin Mateo a 2nd year at Lehman College.
+My name is Devin Mateo and im a student at Lehman College.
 I have experience in both frontend and backend development, I am into blockChain technology which started my intrest in coding and learning how to develop cool applications with practical use. I have a few personal projects that showcases my skills my goal is to become a web3 developer/engineer. On my pass time I like to play games and networking with people on discord.
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,solidity,vercel)
