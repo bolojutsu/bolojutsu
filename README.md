@@ -8,10 +8,10 @@ I specialize in designing scalable architectures, crafting fast gRPC services, a
 
 ### 🛠️ Tech Stack & Tools
 
-*   **Languages:** Rust, Java, Python, Solidity, JavaScript (ES6+), HTML5/CSS3
-*   **Backend & Systems:** Tokio (Async Rust), gRPC, Node.js, Flask
+*   **Languages:** Rust, Java, Python, JavaScript (ES6+), HTML5/CSS3
+*   **Backend & Systems:** Tokio (Async Rust), gRPC, Flask
 *   **Web3 & Blockchain:** Solana (Anchor Framework), Sui, Ethereum
-*   **Frontend:** React, Vite, Tailwind CSS
+*   **Frontend:** React, Vite, Native CSS
 *   **Deployment:** Vercel, Git/GitHub
 
 ---
